@@ -31,6 +31,6 @@ body:
     attributes:
       label: Technical details
       description: |
-      - Please post your log\: `sudo docker-compose logs > lemmy_log.out`.
-      - What OS are you trying to install lemmy on?
-      - Any browser console errors?
+      "- Please post your log\: `sudo docker-compose logs > lemmy_log.out`."
+      "- What OS are you trying to install lemmy on?"
+      "- Any browser console errors?"
