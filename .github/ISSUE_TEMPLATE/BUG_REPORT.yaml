@@ -17,7 +17,7 @@ body:
     validations:
       required: true
   - type: textarea
-    id: problem
+    id: reproduce
     attributes:
       label: Steps to reproduce
       description: |
@@ -27,7 +27,7 @@ body:
     validations:
       required: true
   - type: textarea
-    id: problem
+    id: details
     attributes:
       label: Technical details
       description: |
